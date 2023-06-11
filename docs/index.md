@@ -3,6 +3,6 @@
 <ul>
     <li>Getting Started
     <ul>
-        <li><a href="getting-started/installation.html">Installation</a></li>
+        <li><a href="getting-started/installation">Installation</a></li>
     </ul>
 </ul>
