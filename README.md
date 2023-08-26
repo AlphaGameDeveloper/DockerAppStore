@@ -19,9 +19,7 @@
 <p>
     Copy & paste: Let's go!
 </p>
-<code>
-    curl -sL "https://raw.githubusercontent.com/AlphaGameDeveloper/DockerAppStore/main/src/install.sh" | bash
-</code>
+<code>curl -sL "https://raw.githubusercontent.com/AlphaGameDeveloper/DockerAppStore/main/src/install.sh" | bash</code>
 <h2>can i has downloads plz uwu</h2>
 <p>
     <b>No.</b> it is not ready yet, but you can contribute on this GitHub repository to help!
